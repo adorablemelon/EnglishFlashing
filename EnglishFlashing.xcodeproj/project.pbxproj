@@ -7,6 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		74DFEAE10A61172D23CDEE58 /* Pods_EnglishFlashing.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7F47B2CE3EB0B328B3D0E69E /* Pods_EnglishFlashing.framework */; };
+		8CF60E038222D9002D48FC50 /* Pods_EnglishFlashing_EnglishFlashingUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 53FA8C77B2872284EDE1E8F3 /* Pods_EnglishFlashing_EnglishFlashingUITests.framework */; };
+		923431D52AAA9799FE7D0AE7 /* Pods_EnglishFlashingTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = FE02E5C8AE1FA82EE6A322F4 /* Pods_EnglishFlashingTests.framework */; };
+		F29DD29B2844765D00CDBF63 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F29DD29A2844765D00CDBF63 /* GoogleService-Info.plist */; };
+		F29DD29C2844765D00CDBF63 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F29DD29A2844765D00CDBF63 /* GoogleService-Info.plist */; };
+		F29DD29D2844765D00CDBF63 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F29DD29A2844765D00CDBF63 /* GoogleService-Info.plist */; };
 		F2E8E6BE28446C7600BD8820 /* EnglishFlashingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E8E6BD28446C7600BD8820 /* EnglishFlashingApp.swift */; };
 		F2E8E6C028446C7600BD8820 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F2E8E6BF28446C7600BD8820 /* ContentView.swift */; };
 		F2E8E6C228446C7900BD8820 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F2E8E6C128446C7900BD8820 /* Assets.xcassets */; };
@@ -34,6 +40,15 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		107CA7F9C561A36F54827B82 /* Pods-EnglishFlashing-EnglishFlashingUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EnglishFlashing-EnglishFlashingUITests.release.xcconfig"; path = "Target Support Files/Pods-EnglishFlashing-EnglishFlashingUITests/Pods-EnglishFlashing-EnglishFlashingUITests.release.xcconfig"; sourceTree = "<group>"; };
+		341D752931BD50ED41A70B14 /* Pods-EnglishFlashing.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EnglishFlashing.release.xcconfig"; path = "Target Support Files/Pods-EnglishFlashing/Pods-EnglishFlashing.release.xcconfig"; sourceTree = "<group>"; };
+		53FA8C77B2872284EDE1E8F3 /* Pods_EnglishFlashing_EnglishFlashingUITests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EnglishFlashing_EnglishFlashingUITests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		590AABBB9A8DD21F4BD79E00 /* Pods-EnglishFlashing.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EnglishFlashing.debug.xcconfig"; path = "Target Support Files/Pods-EnglishFlashing/Pods-EnglishFlashing.debug.xcconfig"; sourceTree = "<group>"; };
+		72A4DE341D5E8549DCAB2A3A /* Pods-EnglishFlashingTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EnglishFlashingTests.release.xcconfig"; path = "Target Support Files/Pods-EnglishFlashingTests/Pods-EnglishFlashingTests.release.xcconfig"; sourceTree = "<group>"; };
+		7F47B2CE3EB0B328B3D0E69E /* Pods_EnglishFlashing.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EnglishFlashing.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		C94C57C8E5A248A125730A96 /* Pods-EnglishFlashingTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EnglishFlashingTests.debug.xcconfig"; path = "Target Support Files/Pods-EnglishFlashingTests/Pods-EnglishFlashingTests.debug.xcconfig"; sourceTree = "<group>"; };
+		ED73D88D1E3A65EDD42C4729 /* Pods-EnglishFlashing-EnglishFlashingUITests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-EnglishFlashing-EnglishFlashingUITests.debug.xcconfig"; path = "Target Support Files/Pods-EnglishFlashing-EnglishFlashingUITests/Pods-EnglishFlashing-EnglishFlashingUITests.debug.xcconfig"; sourceTree = "<group>"; };
+		F29DD29A2844765D00CDBF63 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "GoogleService-Info.plist"; path = "../../../../Downloads/GoogleService-Info.plist"; sourceTree = "<group>"; };
 		F2E8E6BA28446C7600BD8820 /* EnglishFlashing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = EnglishFlashing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2E8E6BD28446C7600BD8820 /* EnglishFlashingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishFlashingApp.swift; sourceTree = "<group>"; };
 		F2E8E6BF28446C7600BD8820 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -44,6 +59,7 @@
 		F2E8E6D428446C7900BD8820 /* EnglishFlashingUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = EnglishFlashingUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F2E8E6D828446C7900BD8820 /* EnglishFlashingUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishFlashingUITests.swift; sourceTree = "<group>"; };
 		F2E8E6DA28446C7900BD8820 /* EnglishFlashingUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EnglishFlashingUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FE02E5C8AE1FA82EE6A322F4 /* Pods_EnglishFlashingTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_EnglishFlashingTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +67,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				74DFEAE10A61172D23CDEE58 /* Pods_EnglishFlashing.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,6 +75,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				923431D52AAA9799FE7D0AE7 /* Pods_EnglishFlashingTests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -65,12 +83,37 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CF60E038222D9002D48FC50 /* Pods_EnglishFlashing_EnglishFlashingUITests.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		7775C50D1B973D8E2F075672 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				7F47B2CE3EB0B328B3D0E69E /* Pods_EnglishFlashing.framework */,
+				53FA8C77B2872284EDE1E8F3 /* Pods_EnglishFlashing_EnglishFlashingUITests.framework */,
+				FE02E5C8AE1FA82EE6A322F4 /* Pods_EnglishFlashingTests.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		7A315AC86E28571A8359E4FD /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				590AABBB9A8DD21F4BD79E00 /* Pods-EnglishFlashing.debug.xcconfig */,
+				341D752931BD50ED41A70B14 /* Pods-EnglishFlashing.release.xcconfig */,
+				ED73D88D1E3A65EDD42C4729 /* Pods-EnglishFlashing-EnglishFlashingUITests.debug.xcconfig */,
+				107CA7F9C561A36F54827B82 /* Pods-EnglishFlashing-EnglishFlashingUITests.release.xcconfig */,
+				C94C57C8E5A248A125730A96 /* Pods-EnglishFlashingTests.debug.xcconfig */,
+				72A4DE341D5E8549DCAB2A3A /* Pods-EnglishFlashingTests.release.xcconfig */,
+			);
+			name = Pods;
+			path = Pods;
+			sourceTree = "<group>";
+		};
 		F2E8E6B128446C7600BD8820 = {
 			isa = PBXGroup;
 			children = (
@@ -78,6 +121,8 @@
 				F2E8E6CD28446C7900BD8820 /* EnglishFlashingTests */,
 				F2E8E6D728446C7900BD8820 /* EnglishFlashingUITests */,
 				F2E8E6BB28446C7600BD8820 /* Products */,
+				7A315AC86E28571A8359E4FD /* Pods */,
+				7775C50D1B973D8E2F075672 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -94,6 +139,7 @@
 		F2E8E6BC28446C7600BD8820 /* EnglishFlashing */ = {
 			isa = PBXGroup;
 			children = (
+				F29DD29A2844765D00CDBF63 /* GoogleService-Info.plist */,
 				F2E8E6BD28446C7600BD8820 /* EnglishFlashingApp.swift */,
 				F2E8E6BF28446C7600BD8820 /* ContentView.swift */,
 				F2E8E6C128446C7900BD8820 /* Assets.xcassets */,
@@ -134,9 +180,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F2E8E6DE28446C7900BD8820 /* Build configuration list for PBXNativeTarget "EnglishFlashing" */;
 			buildPhases = (
+				188E87EF5FC1D2751B47E265 /* [CP] Check Pods Manifest.lock */,
 				F2E8E6B628446C7600BD8820 /* Sources */,
 				F2E8E6B728446C7600BD8820 /* Frameworks */,
 				F2E8E6B828446C7600BD8820 /* Resources */,
+				1E73EFE420B0EBE9FAB5A46F /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -151,6 +199,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F2E8E6E128446C7900BD8820 /* Build configuration list for PBXNativeTarget "EnglishFlashingTests" */;
 			buildPhases = (
+				A05DB4A57422D9AE972AE783 /* [CP] Check Pods Manifest.lock */,
 				F2E8E6C628446C7900BD8820 /* Sources */,
 				F2E8E6C728446C7900BD8820 /* Frameworks */,
 				F2E8E6C828446C7900BD8820 /* Resources */,
@@ -169,9 +218,11 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = F2E8E6E428446C7900BD8820 /* Build configuration list for PBXNativeTarget "EnglishFlashingUITests" */;
 			buildPhases = (
+				F76D89969E6DE28B8511F667 /* [CP] Check Pods Manifest.lock */,
 				F2E8E6D028446C7900BD8820 /* Sources */,
 				F2E8E6D128446C7900BD8820 /* Frameworks */,
 				F2E8E6D228446C7900BD8820 /* Resources */,
+				1BEAB92AA0D88C46217B1F0A /* [CP] Embed Pods Frameworks */,
 			);
 			buildRules = (
 			);
@@ -233,6 +284,7 @@
 			files = (
 				F2E8E6C528446C7900BD8820 /* Preview Assets.xcassets in Resources */,
 				F2E8E6C228446C7900BD8820 /* Assets.xcassets in Resources */,
+				F29DD29B2844765D00CDBF63 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -240,6 +292,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F29DD29C2844765D00CDBF63 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -247,10 +300,114 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F29DD29D2844765D00CDBF63 /* GoogleService-Info.plist in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		188E87EF5FC1D2751B47E265 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EnglishFlashing-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1BEAB92AA0D88C46217B1F0A /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EnglishFlashing-EnglishFlashingUITests/Pods-EnglishFlashing-EnglishFlashingUITests-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EnglishFlashing-EnglishFlashingUITests/Pods-EnglishFlashing-EnglishFlashingUITests-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EnglishFlashing-EnglishFlashingUITests/Pods-EnglishFlashing-EnglishFlashingUITests-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		1E73EFE420B0EBE9FAB5A46F /* [CP] Embed Pods Frameworks */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EnglishFlashing/Pods-EnglishFlashing-frameworks-${CONFIGURATION}-input-files.xcfilelist",
+			);
+			name = "[CP] Embed Pods Frameworks";
+			outputFileListPaths = (
+				"${PODS_ROOT}/Target Support Files/Pods-EnglishFlashing/Pods-EnglishFlashing-frameworks-${CONFIGURATION}-output-files.xcfilelist",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${PODS_ROOT}/Target Support Files/Pods-EnglishFlashing/Pods-EnglishFlashing-frameworks.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		A05DB4A57422D9AE972AE783 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EnglishFlashingTests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+		F76D89969E6DE28B8511F667 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputFileListPaths = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputFileListPaths = (
+			);
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-EnglishFlashing-EnglishFlashingUITests-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
 		F2E8E6B628446C7600BD8820 /* Sources */ = {
@@ -411,6 +568,7 @@
 		};
 		F2E8E6DF28446C7900BD8820 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 590AABBB9A8DD21F4BD79E00 /* Pods-EnglishFlashing.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -440,6 +598,7 @@
 		};
 		F2E8E6E028446C7900BD8820 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 341D752931BD50ED41A70B14 /* Pods-EnglishFlashing.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
@@ -469,6 +628,7 @@
 		};
 		F2E8E6E228446C7900BD8820 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = C94C57C8E5A248A125730A96 /* Pods-EnglishFlashingTests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -489,6 +649,7 @@
 		};
 		F2E8E6E328446C7900BD8820 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 72A4DE341D5E8549DCAB2A3A /* Pods-EnglishFlashingTests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -509,6 +670,7 @@
 		};
 		F2E8E6E528446C7900BD8820 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = ED73D88D1E3A65EDD42C4729 /* Pods-EnglishFlashing-EnglishFlashingUITests.debug.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
@@ -527,6 +689,7 @@
 		};
 		F2E8E6E628446C7900BD8820 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 107CA7F9C561A36F54827B82 /* Pods-EnglishFlashing-EnglishFlashingUITests.release.xcconfig */;
 			buildSettings = {
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
