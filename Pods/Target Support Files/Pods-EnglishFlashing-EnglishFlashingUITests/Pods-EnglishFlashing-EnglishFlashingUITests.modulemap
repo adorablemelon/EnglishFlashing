@@ -1,0 +1,6 @@
+framework module Pods_EnglishFlashing_EnglishFlashingUITests {
+  umbrella header "Pods-EnglishFlashing-EnglishFlashingUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

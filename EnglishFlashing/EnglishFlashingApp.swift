@@ -16,7 +16,9 @@ struct EnglishFlashingApp: App {
     }
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            let repo = CardRepository()
+            let cardViewModel = CardViewModel(repo)
+            ContentView(viewModel: cardViewModel)
         }
     }
 }
